@@ -11,7 +11,7 @@ Modern Ecommerce frontend built purely in CSS HTML and Bootstrap
 
 ### Tech
 
-- [CSS]("https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [HTML]("https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [Bootstrap]("https://getbootstrap.com/)
-- [Figma]("https://www.figma.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Bootstrap](https://getbootstrap.com/)
+- [Figma](https://www.figma.com/)
