@@ -6,7 +6,7 @@ Modern Ecommerce frontend built purely in CSS HTML and Bootstrap
 
 # Requirments & Planning
 
-![Ecommerce Board](/images/ecommerceBoard.png)
+![Ecommerce Board](./images/ecommerceBoard.png)
 - Diagram built with [Figma]("https://www.figma.com/file/S2n1eDcWJ2ht2EFfM9nrPH/Ecommerce-Board?type=whiteboard&node-id=0%3A1&t=JVaHlDMqPAjOVueR-1")
 
 ### Tech
