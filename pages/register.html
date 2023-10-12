@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Document</title>
+</head>
+
+<body class="bg-body-tertiary">
+  <header class="container-fluid justify-content-center bg-primary py-1 text-center">
+    <a class="text-white fw-bold text-uppercase ">Sale 50% Off</a>
+  </header>
+  <nav class="navbar navbar-expand-sm bg-white fw-bold sticky-top shadow-sm">
+    <div class="container-fluid mx-2">
+      <a class="navbar-brand text-primary" href="#"><i class="bi bi-xbox"></i></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+        aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation" style="border: 0px;">
+        <span class="bi-list"></span>
+      </button>
+      <div class="collapse navbar-collapse my-3" id="navbarScroll">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Categories
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Men</a></li>
+              <li><a class="dropdown-item" href="#">Women</a></li>
+              <li>
+                <hr class="dropdown-divider">
+              </li>
+              <li><a class="dropdown-item" href="#">Jewlery</a></li>
+            </ul>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" aria-current="page" href="#">Deals</a>
+          </li>
+        </ul>
+        <form class="w-100 m-auto px-sm-4 px-0" style="max-width: 1000px;">
+          <input class="form-control bg-body-tertiary border-light border-1 ps-3 px-0 rounded-3" type="search"
+            placeholder="What can we help you find?" aria-label="Search">
+        </form>
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link bi bi-cart-fill" href="#"></a>
+          </li>
+          <li class="nav-item" style="width: 88px;">
+            <a class="bi bi-person-circle nav-link " href="#"> Sign In</a>
+          </li>
+      </div>
+    </div>
+  </nav>
+  <main>
+    <section class="px-4 m-auto text-center" style="max-width: 1200px;">
+      <h1 class="my-5">Sign In</h1>
+      <div class=" row justify-content-center">
+        <form class="card shadow" style="max-width: 20rem;">
+          <div class="card-body gap-5">
+            <div class="row py-4">
+              <div class="col-12 ">
+                <label for="inputEmail" class="form-label">Email</label>
+                <div class="input-group">
+                  <span class="input-group-text" id="inputGroupPrepend">👤</span>
+                  <input type="email" class="form-control" id="inputEmail" required>
+                </div>
+                <div class="col-12 mt-3">
+                  <label for="inputPassword" class="form-label">Password</label>
+                  <div class="input-group">
+                    <span class="input-group-text" id="inputGroupPrepend">🔒</span>
+                    <input type="password" class="form-control" id="inputPassword" required>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer row">
+            <div class="col">
+              <button type="submit" class="btn btn-primary w-100 mt-4">Sign in</button>
+              <div class="text-center mt-4 pb-4">
+                <input class="form-check-input" type="checkbox" id="gridCheck">
+                <label class="form-check-label" for="gridCheck">
+                  Remember me
+                </label>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+      <p class="m-4">Don't have an account? <span class="text-decoration-underline">Register</span></p>
+    </section>
+    <div class="p-5"></div>
+    <div class="p-5"></div>
+    <div class="p-5"></div>
+    <footer class="container-fluid bg-white  p-0 shadow-sm">
+      <div class="d-flex flex-wrap justify-content-between align-items-center py-3  border-top px-4">
+        <div class="col d-flex align-items-center">
+          <a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
+            <i class="bi bi-xbox"></i>
+          </a>
+          <span class="mb-3 mb-md-0 text-body-secondary">© 2023 Company, Inc</span>
+        </div>
+        <ul class="col justify-content-end list-unstyled d-flex">
+          <li class="ms-3 bi"><a class="text-body-secondary" href="#">
+              <i class="bi bi-twitter-x"></i>
+          </li>
+          <li class="ms-3 bg bi-instagram"><a class="text-body-secondary" href="#"></li>
+          <li class="ms-3 bg bi-facebook"><a class="text-body-secondary" href="#"></li>
+        </ul>
+      </div>
+    </footer>
+  </main>
+</body>
+
+</html>
