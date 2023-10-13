@@ -1,22 +1,31 @@
 body {
-    font-family: Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Inter, Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
-.bg-main{
-    background:#303C47;
+.bg-main {
+  background: #303c47;
 }
-.text-main{
-    color: #303C47;
-}
-
-.btn-action{
-    background: #DD7973;
-    color: white;
+.text-main {
+  color: #303c47;
 }
 
-.btn-action:hover{
-    color:rgb(255, 255, 255);
-    background: #c2605b;
-    animation-duration: 1000ms; 
-    animation-timing-function:ease-in-out;
+.btn-action {
+  background: #dd7973;
+  color: white;
+}
+
+.btn-action:hover {
+  color: rgb(255, 255, 255);
+  background: #c2605b;
+  animation-duration: 1000ms;
+  animation-timing-function: ease-in-out;
+}
+
+.bg-action {
+  background: #dd7973;
+  color: white;
+}
+
+.text-action {
+  color: #dd7973;
 }
