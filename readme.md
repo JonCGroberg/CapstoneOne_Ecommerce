@@ -52,11 +52,12 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 - Navbar collapses
 - Hero Image expands to fill mobile screen
 
-
-
 ### Before
+
 ![feature1](images/feature2Part1.png)
+
 ### After
+
 ![feature1](images/feature2Part2.png)
 
 ## Validation
