@@ -44,8 +44,9 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 - Images turn into a masonry grid at small sizes
   - Checkout and bookmark icons on small cards change size
 - Images scale to fit display size
-  ![feature1](images/feature1.gif)
-
+  <p align="center">
+  <img src= "images/feature1.gif" width=500>
+  </p>
 ## Hero Image & Navbar
 
 - Button text shortens in larger views
@@ -54,15 +55,23 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
 ### Before
 
-![feature1](images/feature2Part1.png)
+  <p align="center">
+  <img src= "images/feature2Part1.png" height = 300>
+  </p>
+
 
 ### After
 
-![feature1](images/feature2Part2.png)
+  <p align="center">
+  <img src= "images/feature2Part2.png" width=350>
+  </p>
 
 ## Validation
 
-![feature1](images/validation.png)
+  <p align="center">
+  <img src= "images/validation.png" height = 200>
+  </p>
+
 <a name="pages"></a>
 
 # Pages
