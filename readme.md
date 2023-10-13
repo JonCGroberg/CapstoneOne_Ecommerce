@@ -56,7 +56,7 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 ### Before
 
   <p align="center">
-  <img src= "images/feature2Part1.png" height = 300>
+  <img src= "images/feature2Part1.png" width = 600>
   </p>
 
 
