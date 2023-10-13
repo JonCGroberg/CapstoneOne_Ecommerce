@@ -4,6 +4,8 @@
 
 Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
+[Live Site](https://joncgroberg.github.io/CapstoneOne_Ecommerce/)
+
 <a name="table-of-contents"></a>
 
 # Table of contents
@@ -16,6 +18,7 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
   - [Hero Image \& Navbar](#hero-image--navbar)
     - [Before](#before)
     - [After](#after)
+  - [Validation](#validation)
 - [Pages](#pages)
   - [Landing](#landing)
   - [Store](#store)
@@ -49,11 +52,16 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 - Navbar collapses
 - Hero Image expands to fill mobile screen
 
+
+
 ### Before
 ![feature1](images/feature2Part1.png)
 ### After
 ![feature1](images/feature2Part2.png)
 
+## Validation
+
+![feature1](images/validation.png)
 <a name="pages"></a>
 
 # Pages
