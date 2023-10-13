@@ -1,3 +1,22 @@
-body{
-    font-family: Inter, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+body {
+    font-family: Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bg-main{
+    background:#303C47;
+}
+.text-main{
+    color: #303C47;
+}
+
+.btn-action{
+    background: #DD7973;
+    color: white;
+}
+
+.btn-action:hover{
+    color:rgb(255, 255, 255);
+    background: #c2605b;
+    animation-duration: 1000ms; 
+    animation-timing-function:ease-in-out;
 }
