@@ -123,8 +123,8 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
 <a name="inspiration"></a>
 
-### Credits & Inspiration
+### Credits & Design Inspiration
 
 - [Amazon](https://www.amazon.com/)
 - [Target](https://www.target.com/)
-- [AppleStore](https://www.apple.com/store?afid=p238%7CsHI7bHWVr-dc_mtid_1870765e38482_pcrid_675348649381_pgrid_13945964767_pntwk_g_pchan__pexid__&cid=aos-us-kwgo-brand-apple-store--slid---product-)
+- [Apple Store](https://www.apple.com/store?afid=p238%7CsHI7bHWVr-dc_mtid_1870765e38482_pcrid_675348649381_pgrid_13945964767_pntwk_g_pchan__pexid__&cid=aos-us-kwgo-brand-apple-store--slid---product-)
