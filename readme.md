@@ -42,18 +42,22 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 ## Image Grid
 
 - Images turn into a masonry grid at small sizes
-  - Checkout and bookmark icons on small cards change size
+  - Add to cart and bookmark icons on small cards change size
 - Images scale to fit display size
   <p align="center">
   <img src= "images/feature1.gif" width=500>
   </p>
 ## Hero Image & Navbar
 
+- Add to cart text shortens to "Add" on wide screens
 - Button text shortens in larger views
-- Navbar collapses
+- Navbar collapses and search bar moves to the top
 - Hero Image expands to fill mobile screen
 
 ### Wide Device
+
+- Smaller card and portion of add to cart texts hides
+- In row 
 
   <p align="center">
   <img src= "images/feature2Part1.png" width = 600>
@@ -61,6 +65,10 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
 
 ### Mobile
+
+- Images scale to become larger forcing them to wrap 
+- Collapsed navbar
+  - Search bar moves to the top only when collapsed
 
   <p align="center">
   <img src= "images/feature2Part2.png" width=350>
