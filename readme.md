@@ -53,14 +53,14 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 - Navbar collapses
 - Hero Image expands to fill mobile screen
 
-### Before
+### Wide Device
 
   <p align="center">
   <img src= "images/feature2Part1.png" width = 600>
   </p>
 
 
-### After
+### Mobile
 
   <p align="center">
   <img src= "images/feature2Part2.png" width=350>
