@@ -2,7 +2,7 @@
 
 # Capstone 1: Ecommerce
 
-Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
+A modern and responsive ecommerce frontend built purely with HTML, CSS and Bootstrap.
 
 [Live Site](https://joncgroberg.github.io/CapstoneOne_Ecommerce/)
 
@@ -33,9 +33,10 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
 # Development Process
 
-![Ecommerce Board](./images/ecommerceBoard.png)
+ Diagram designed in [Figma]("https://www.figma.com/file/S2n1eDcWJ2ht2EFfM9nrPH/Ecommerce-Board?type=whiteboard&node-id=0%3A1&t=JVaHlDMqPAjOVueR-1")
 
-- Diagram built with [Figma]("https://www.figma.com/file/S2n1eDcWJ2ht2EFfM9nrPH/Ecommerce-Board?type=whiteboard&node-id=0%3A1&t=JVaHlDMqPAjOVueR-1")
+
+![Ecommerce Board](./images/ecommerceBoard.png)
 
 # Key Features
 
@@ -88,13 +89,23 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
 ## Landing
 
+Welcomes users with hero image and overview of the watch process
 ![Large](./images/mainLG.png)
+
+- Stages using Bootstrap cards
+- Dynamic and collapsing navbar
 
 <a name="store"></a>
 
 ## Store
 
+Displays products in responsive image grid. Bookmark, add to cart by clicking.
+
 ![Large](./images/storeLG.png)
+
+- Responsive hero image using columns and Bootstrap cards
+- Responsive product list using Bootstrap cards
+  - Responsive buttons using Bootstrap columns
 
 <a name="login"></a>
 
@@ -102,17 +113,34 @@ Modern and responsive ecommerce frontend built purely in CSS HTML and Bootstrap
 
 ![Large](./images/loginLG.png)
 
+
+- Form to capture basic user details
+- Validation of required fields
+- Remember me checkbox
+- Link to register page
+
 <a name="register"></a>
 
 ## Register
 
+
 ![Large](./images/registerLG.png)
+
+- Form to capture basic user details
+- Validation of required fields
+- Remember me checkbox
+- Radio buttons 
+- Link to login page
 
 <a name="checkout"></a>
 
 ## Checkout
 
 ![Large](./images/checkoutLG.png)
+- Shows selected products, totals
+- Enter to checkout: Address, payment, confirmation.
+- Validation before proceeding.
+- Cart built with HTML table
 
 <a name="about-the-project"></a>
 
