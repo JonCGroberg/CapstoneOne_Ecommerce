@@ -4,7 +4,9 @@
 
 A modern and responsive ecommerce frontend built purely with HTML, CSS and Bootstrap.
 
-[Live Site](https://joncgroberg.github.io/CapstoneOne_Ecommerce/)
+## Live Site
+
+https://joncgroberg.github.io/CapstoneOne_Ecommerce/
 
 <a name="table-of-contents"></a>
 
@@ -16,8 +18,8 @@ A modern and responsive ecommerce frontend built purely with HTML, CSS and Boots
 - [Key Features](#key-features)
   - [Image Grid](#image-grid)
   - [Hero Image \& Navbar](#hero-image--navbar)
-    - [Before](#before)
-    - [After](#after)
+    - [Before](#wide-device)
+    - [After](#mobile)
   - [Validation](#validation)
 - [Pages](#pages)
   - [Landing](#landing)
@@ -27,7 +29,7 @@ A modern and responsive ecommerce frontend built purely with HTML, CSS and Boots
   - [Checkout](#checkout)
 - [About the project](#about-the-project)
     - [Technologies Used](#technologies-used)
-    - [Credits \& Inspiration](#credits--inspiration)
+    - [Credits \& Inspiration](#inspiration)
 
 <a name="requirments-planning"></a>
 
@@ -42,34 +44,38 @@ A modern and responsive ecommerce frontend built purely with HTML, CSS and Boots
 
 ## Image Grid
 
-- Images turn into a masonry grid at small sizes
-  - Add to cart and bookmark icons on small cards change size
-- Images scale to fit display size
+- Images turn into a **masonry** grid at small sizes
+  - Add to cart and bookmark icons on small cards **change** size
+- Images **scale** to fit display size
   <p align="center">
   <img src= "images/feature1.gif" width=500>
   </p>
 ## Hero Image & Navbar
 
-- Add to cart text shortens to "Add" on wide screens
-- Button text shortens in larger views
-- Navbar collapses and search bar moves to the top
-- Hero Image expands to fill mobile screen
+- Add to cart text **shortens** to "Add" on wide screens
+- Button text **shortens** in larger views
+- Navbar **collapses** and search bar **moves** to the top
+- Hero Image **expands** to fill mobile screen
+
+
+<a name="wide-device"></a>
 
 ### Wide Device
 
-- Smaller card and portion of add to cart texts hides
+- Smaller card and portion of add to cart texts **hides**
 - In row 
 
   <p align="center">
   <img src= "images/feature2Part1.png" width = 600>
   </p>
 
+<a name="mobile"></a>
 
 ### Mobile
 
-- Images scale to become larger forcing them to wrap 
-- Collapsed navbar
-  - Search bar moves to the top only when collapsed
+- Images scale to become larger forcing them to **wrap** 
+- **Collapsed** navbar
+  - Search bar **moves** to the top only when collapsed
 
   <p align="center">
   <img src= "images/feature2Part2.png" width=350>
@@ -92,8 +98,8 @@ A modern and responsive ecommerce frontend built purely with HTML, CSS and Boots
 Welcomes users with hero image and overview of the watch process
 ![Large](./images/mainLG.png)
 
-- Stages using Bootstrap cards
-- Dynamic and collapsing navbar
+- Stages using **Bootstrap cards**
+- **Dynamic** and collapsing navbar
 
 <a name="store"></a>
 
@@ -103,9 +109,9 @@ Displays products in responsive image grid. Bookmark, add to cart by clicking.
 
 ![Large](./images/storeLG.png)
 
-- Responsive hero image using columns and Bootstrap cards
+- **Responsive** hero image using **columns** and Bootstrap cards
 - Responsive product list using Bootstrap cards
-  - Responsive buttons using Bootstrap columns
+  - **Responsive** buttons using Bootstrap **columns**
 
 <a name="login"></a>
 
@@ -114,10 +120,10 @@ Displays products in responsive image grid. Bookmark, add to cart by clicking.
 ![Large](./images/loginLG.png)
 
 
-- Form to capture basic user details
-- Validation of required fields
-- Remember me checkbox
-- Link to register page
+- **Form** to capture basic user details
+- **Validation** of required fields
+- Remember me **checkbox**
+- **Link** to register page
 
 <a name="register"></a>
 
@@ -126,21 +132,21 @@ Displays products in responsive image grid. Bookmark, add to cart by clicking.
 
 ![Large](./images/registerLG.png)
 
-- Form to capture basic user details
-- Validation of required fields
-- Remember me checkbox
-- Radio buttons 
-- Link to login page
+- **Form** to capture basic user details
+- **Validation** of required fields
+- Remember me **checkbox**
+- **Radio** buttons 
+- **Link** to login page
 
 <a name="checkout"></a>
 
 ## Checkout
 
 ![Large](./images/checkoutLG.png)
-- Shows selected products, totals
+- **Shows** selected products, totals
 - Enter to checkout: Address, payment, confirmation.
-- Validation before proceeding.
-- Cart built with HTML table
+- **Validation** before proceeding.
+- Cart built with **HTML table**
 
 <a name="about-the-project"></a>
 
