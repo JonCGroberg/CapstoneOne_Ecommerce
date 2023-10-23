@@ -6,7 +6,7 @@ A modern and responsive ecommerce frontend built purely with HTML, CSS and Boots
 
 ## Live Site
 
-https://joncgroberg.github.io/CapstoneOne_Ecommerce/
+https://joncgroberg.github.io/EcommerceCapstone/
 
 <a name="table-of-contents"></a>
 
