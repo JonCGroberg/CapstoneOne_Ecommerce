@@ -3,42 +3,76 @@
 # Capstone 1: Ecommerce
 
 A modern and responsive ecommerce frontend built purely with HTML, CSS and Bootstrap.
-
-## Live Site
-
-https://joncgroberg.github.io/EcommerceCapstone/
-
-<a name="table-of-contents"></a>
-
-# Table of contents
-
-- [Capstone 1: Ecommerce](#capstone-1-ecommerce)
-- [Table of contents](#table-of-contents)
-- [Development Process](#development-process)
-- [Key Features](#key-features)
-  - [Image Grid](#image-grid)
-  - [Hero Image \& Navbar](#hero-image--navbar)
-    - [Before](#wide-device)
-    - [After](#mobile)
-  - [Validation](#validation)
-- [Pages](#pages)
-  - [Landing](#landing)
-  - [Store](#store)
-  - [Login](#login)
-  - [Register](#register)
-  - [Checkout](#checkout)
-- [About the project](#about-the-project)
-    - [Technologies Used](#technologies-used)
-    - [Credits \& Inspiration](#inspiration)
-
-<a name="requirments-planning"></a>
-
+> Live Site https://joncgroberg.github.io/EcommerceCapstone/
 # Development Process
-
- Diagram designed in [Figma]("https://www.figma.com/file/S2n1eDcWJ2ht2EFfM9nrPH/Ecommerce-Board?type=whiteboard&node-id=0%3A1&t=JVaHlDMqPAjOVueR-1")
 
 
 ![Ecommerce Board](./images/ecommerceBoard.png)
+>  Diagram designed in Figma
+
+# Pages
+
+<a name="landing"></a>
+
+## Landing
+
+![Large](./images/mainLG.png)
+
+Welcomes users with hero image and overview of the watch process
+
+- Stages using **Bootstrap cards**
+- **Dynamic** and collapsing navbar
+
+<a name="store"></a>
+
+## Store
+
+
+![Large](./images/storeLG.png)
+
+Displays products in responsive image grid. Bookmark, add to cart by clicking.
+
+
+- **Responsive** hero image using **columns** and Bootstrap cards
+- Responsive product list using Bootstrap cards
+  - **Responsive** buttons using Bootstrap **columns**
+
+<a name="login"></a>
+
+## Login
+
+![Large](./images/loginLG.png)
+
+
+- **Form** to capture basic user details
+- **Validation** of required fields
+- Remember me **checkbox**
+- **Link** to register page
+
+<a name="register"></a>
+
+## Register
+
+
+![Large](./images/registerLG.png)
+
+- **Form** to capture basic user details
+- **Validation** of required fields
+- Remember me **checkbox**
+- **Radio** buttons 
+- **Link** to login page
+
+<a name="checkout"></a>
+
+## Checkout
+
+![Large](./images/checkoutLG.png)
+- **Shows** selected products, totals
+- Enter to checkout: Address, payment, confirmation.
+- **Validation** before proceeding.
+- Cart built with **HTML table**
+
+<a name="about-the-project"></a>
 
 # Key Features
 
@@ -89,66 +123,7 @@ https://joncgroberg.github.io/EcommerceCapstone/
 
 <a name="pages"></a>
 
-# Pages
 
-<a name="landing"></a>
-
-## Landing
-
-Welcomes users with hero image and overview of the watch process
-![Large](./images/mainLG.png)
-
-- Stages using **Bootstrap cards**
-- **Dynamic** and collapsing navbar
-
-<a name="store"></a>
-
-## Store
-
-Displays products in responsive image grid. Bookmark, add to cart by clicking.
-
-![Large](./images/storeLG.png)
-
-- **Responsive** hero image using **columns** and Bootstrap cards
-- Responsive product list using Bootstrap cards
-  - **Responsive** buttons using Bootstrap **columns**
-
-<a name="login"></a>
-
-## Login
-
-![Large](./images/loginLG.png)
-
-
-- **Form** to capture basic user details
-- **Validation** of required fields
-- Remember me **checkbox**
-- **Link** to register page
-
-<a name="register"></a>
-
-## Register
-
-
-![Large](./images/registerLG.png)
-
-- **Form** to capture basic user details
-- **Validation** of required fields
-- Remember me **checkbox**
-- **Radio** buttons 
-- **Link** to login page
-
-<a name="checkout"></a>
-
-## Checkout
-
-![Large](./images/checkoutLG.png)
-- **Shows** selected products, totals
-- Enter to checkout: Address, payment, confirmation.
-- **Validation** before proceeding.
-- Cart built with **HTML table**
-
-<a name="about-the-project"></a>
 
 # About the project
 
