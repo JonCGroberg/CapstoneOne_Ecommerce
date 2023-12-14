@@ -3,7 +3,7 @@
 # Capstone 1: Ecommerce
 
 A modern and responsive ecommerce frontend built purely with HTML, CSS and Bootstrap.
-> Live Site https://joncgroberg.github.io/EcommerceCapstone/
+> View the live Site https://joncgroberg.github.io/EcommerceCapstone/
 # Development Process
 
 
